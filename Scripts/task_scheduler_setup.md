@@ -25,3 +25,11 @@ This guide walks you through automating your Python script (`currency_scraper.py
 - Description: "Runs a Python script daily to fetch INR exchange rates"
 
 ![Create Basic Task](../Screenshots/create_basic_task.png)
+
+### 🟢 Step 3: Set Trigger
+
+- Choose **Daily**
+- Set the time (e.g., `9:00 AM`)
+- Click **Next**
+
+![Set Trigger](../Screenshots/set_trigger_daily.png)
