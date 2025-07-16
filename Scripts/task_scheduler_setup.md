@@ -17,5 +17,5 @@ This guide walks you through automating your Python script (`currency_scraper.py
 2. Open the application  
 3. Click **Create Basic Task**
 
-![Open Task Scheduler](Screenshots/open_task_scheduler.png)
+![Open Task Scheduler](../Screenshots/open_task_scheduler.png)
 
