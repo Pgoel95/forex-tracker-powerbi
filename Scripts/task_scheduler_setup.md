@@ -26,10 +26,29 @@ This guide walks you through automating your Python script (`currency_scraper.py
 
 ![Create Basic Task](../Screenshots/create_basic_task.png)
 
-### 🟢 Step 3: Set Trigger
+### Step 3: Set Trigger
 
 - Choose **Daily**
 - Set the time (e.g., `9:00 AM`)
 - Click **Next**
 
 ![Set Trigger](../Screenshots/set_trigger_daily.png)
+
+### Step 4: Set the Action
+
+- Choose **Start a program**
+
+![Set Action](../Screenshots/set_action_start_program.png)
+
+### Step 5: Add Program Details
+
+- **Program/script**: path to your Python executable  
+  Example: C:\Users\YourUsername\AppData\Local\Programs\Python\Python39\python.exe
+
+- **Add arguments**: full path to your script  
+Example: "C:\Users\YourUsername\Documents\currency-exchange-dashboard\scripts\currency_scraper.py"
+
+- **Start in**: (optional but safer)  
+C:\Users\YourUsername\Documents\currency-exchange-dashboard\scripts\
+
+![Add Program Details](../Screenshots/add_program_and_arguments.png)
