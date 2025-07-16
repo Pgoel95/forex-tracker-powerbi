@@ -15,3 +15,7 @@ This project automates the collection of currency exchange rates, stores them in
 - Windows Task Scheduler
 - Power BI
 - Github
+
+# Folder Structure
+- `Scripts/`: Python scraping script + Task Scheduler instructions
+- 
