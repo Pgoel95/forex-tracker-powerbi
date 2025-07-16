@@ -52,3 +52,10 @@ Example: "C:\Users\YourUsername\Documents\currency-exchange-dashboard\scripts\cu
 C:\Users\YourUsername\Documents\currency-exchange-dashboard\scripts\
 
 ![Add Program Details](../Screenshots/add_program_and_arguments.png)
+
+### Step 6: Finish Setup
+
+- Review all settings
+- Click **Finish**
+
+![Finish Task Setup](../Screenshots/finish_setup.png)
