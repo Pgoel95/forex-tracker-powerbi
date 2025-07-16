@@ -18,4 +18,11 @@ This project automates the collection of currency exchange rates, stores them in
 
 # Folder Structure
 - `Scripts/`: Python scraping script + Task Scheduler instructions
-- 
+- `Data/`: CSV file (auto-updated)
+
+# How it Works
+1. **Scraping**: `currency_scraper.py` pulls data daily from [https://www.x-rates.com/historical/?from=INR&amount=1&date=2025-07-16]
+2. **Automation**: Task Scheduler triggers the script daily
+3. **Storage**: Data saved to `exchange_rates.csv` inside `data/` folder
+4. **Visualization**: Power BI connects to the CSV and refreshes visuals
+
