@@ -19,3 +19,9 @@ This guide walks you through automating your Python script (`currency_scraper.py
 
 ![Open Task Scheduler](../Screenshots/open_task_scheduler.png)
 
+### Step 2: Name & Describe the Task
+
+- Name: `Update Currency Exchange CSV`
+- Description: "Runs a Python script daily to fetch INR exchange rates"
+
+![Create Basic Task](../Screenshots/create_basic_task.png)
